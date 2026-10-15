@@ -6,6 +6,9 @@ TagManager:
   tags:
   - CinemachineTarget
   - toy
+  - Door
+  - Light
+  - ConfettiArea
   layers:
   - Default
   - TransparentFX
